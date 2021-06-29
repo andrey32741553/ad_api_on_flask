@@ -20,4 +20,4 @@ alembic == 1.6.4
 
 # C:\Users\andrey\PycharmProjects\webpy_les1\ad_api_on_flask\app.py: 8
 jsonschema == 3.2.0
-psycopg2 == 2.8.6
+psycopg2-binary==2.8.6
